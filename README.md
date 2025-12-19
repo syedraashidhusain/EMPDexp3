@@ -47,8 +47,8 @@
 
 ## Output:
 
-### Name:SYED RAASHID HUSSAIN.M
-### Register Number:25017431
+### Name:SYED RAASHID HUSAIN.M
+### Register Number:25009038
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
